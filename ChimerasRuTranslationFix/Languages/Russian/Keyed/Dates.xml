@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: {0} of {1}, {2} -->
+  <FullDate>{0} of {1}, {2} г</FullDate>
+  <!-- EN: {0} {1} {2} -->
+  <ShortDate>{0} {1} {2}</ShortDate>
+  <!-- EN: {0} of {1}, {2} -->
+  <DateReadout>{0} of {1}, {2} г</DateReadout>
+  <!-- EN: {0} of {1} -->
+  <SeasonFullDate>{0} of {1}</SeasonFullDate>
+  
+</LanguageData>
