@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
     <!-- The name of the mod -->
-    <name>Chimera's RU Translation Fixes</name>
+    <name>Chimera's Russian Translation Fixes</name>
     
     <!-- The mod author names, usually set to your Steam/Forum name -->
     <author>Chimera</author>
     
     <!-- A URL to be displayed on your mod info page(if available). Can be set to link to anything. Most link it to their Github/Workshop page/forum post. -->
-    <url>https://twitter.com/chimera_catgrrl</url>
+    <url>https://github.com/WingedRat/rimworld-mods</url>
     
     <!-- Added in 1.0. Please make it human readable. Avoid acronyms where possible. Normally qualifiers seperated by periods.-->
     <packageId>Chimera.Fixes.TranslationRU</packageId>
@@ -20,29 +20,11 @@
     
     <!-- Describes your mod, can be multiple lines long. -->
     <description>Fixes for russian translation</description>
-        <!-- List of other mods which your mod requires to function. -->
-    <modDependencies>
-        <li>
-            <packageId>Unknown (help extend this)</packageId>
-            <displayName>Unknown (help extend this)</displayName>
-            <downloadUrl>Unknown (help extend this)</downloadUrl>
-            <steamWorkshopUrl>Unknown (help extend this)</steamWorkshopUrl>
-        </li>
-    </modDependencies>
-    <modDependenciesByVersion>
-        <v1.1>
-            <li>
-                <packageId>Unknown (help extend this)</packageId>
-                <displayName>Unknown (help extend this)</displayName>
-                <steamWorkshopUrl>Unknown (help extend this)</steamWorkshopUrl>
-                <downloadUrl>Unknown (help extend this)</downloadUrl>
-            </li>
-        </v1.1>
-    </modDependenciesByVersion>
+
+    <!-- List of other mods which your mod requires to function. -->
+    <modDependencies></modDependencies>
+    <modDependenciesByVersion></modDependenciesByVersion>
     
     <!-- Lists the mods which should be loaded before your mod. Helps ensure your dependencies are loaded in first. -->
-    <loadAfter>
-        <li>Ludeon.RimWorld</li>
-        <li>Ludeon.RimWorld.Royalty</li>
-    </loadAfter>
+    <loadAfter></loadAfter>
 </ModMetaData>
